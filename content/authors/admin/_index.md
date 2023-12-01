@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 	'✨**IceLab-X**✨'
+title: 	'✨IceLab-X✨'
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
