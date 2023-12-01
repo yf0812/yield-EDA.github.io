@@ -12,4 +12,6 @@ publishDate: '2023-11-30T07:51:22.920102Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 56th Annual Design Automation Conference 2019*'
+
+url_pdf: ''
 ---

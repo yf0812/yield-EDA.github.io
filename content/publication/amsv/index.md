@@ -10,4 +10,6 @@ publishDate: '2023-11-30T07:51:22.937870Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Very Large Scale Integration (VLSI) Systems*'
+
+url_pdf: ''
 ---

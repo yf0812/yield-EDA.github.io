@@ -10,4 +10,6 @@ publishDate: '2023-11-30T07:51:22.893583Z'
 publication_types:
 - paper-conference
 publication: '*2008 IEEE/ACM International Conference on Computer-Aided Design*'
+
+url_pdf: ''
 ---

@@ -10,4 +10,6 @@ publishDate: '2023-11-30T07:51:22.902169Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2016 on International Symposium on Physical Design*'
+
+url_pdf: ''
 ---
