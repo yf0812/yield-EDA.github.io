@@ -122,7 +122,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+![JPG](jieshao.JPG)
 * ⛳ This blog primarily focuses on the issue of **`yield analysis`** in integrated circuits, encompassing both yield estimation and yield optimization. 
 
 * 🎯 We begin with an introduction to the definitions of **`yield estimation`** and **`yield optimization`**, followed by a detailed exploration of the current mainstream research directions in these two areas. 
