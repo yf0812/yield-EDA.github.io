@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: **Yield analysis in AI4EDA**
+role: Yield analysis in AI4EDA
 
 # Organizations/Affiliations to show in About widget
 organizations:
