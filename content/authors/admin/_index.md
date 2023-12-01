@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yield Analysis
+title: 	✨Yield Analysis✨
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -21,7 +21,7 @@ role: Yield analysis in AI4EDA
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 'Yanfang Liu (IceLab)'
+  - name: Yanfang Liu (IceLab)
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
