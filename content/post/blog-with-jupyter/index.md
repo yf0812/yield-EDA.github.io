@@ -8,35 +8,35 @@ authors:
 ---
 
 
-## Problem Defination
+## 1 Problem Defination
 
 ![image-20231201230842917](image-20231201230842917.png)
     
 
 
 
-## Importance Sampling (IS)-based Method
+## 2 Importance Sampling (IS)-based Method
 
-### Problem simplification
+### 2.1 Problem simplification
 
 ![image-20231201231219042](image-20231201231219042.png)
 
-### Most critical: Proposal distribution
+### 2.2 Most critical: Proposal distribution
 
 ![image-20231201232827471](image-20231201232827471.png)
 
-### Advantages
+### 2.3 Advantages
 
-### Disadvantages
+### 2.4 Disadvantages
 
-### Classical Papers
+### 2.5 Classical Papers
 
-## Surrogate Model-based Method
+## 3 Surrogate Model-based Method
 
-### Most critical:  Train a Surrogate Model as the SPICE Simulator
+### 3.1 Most critical:  Train a Surrogate Model as the SPICE Simulator
 
-### Advantages
+### 3.2 Advantages
 
-### Disadvantages
+### 3.3 Disadvantages
 
-### Classical Papers
+### 3.4 Classical Papers
