@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 	✨IceLab✨
+title: 	✨IceLab-X✨
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -20,8 +20,8 @@ superuser: true
 role: AI4EDA
 
 # Organizations/Affiliations to show in About widget
-# organizations:
-#   - name: Yanfang Liu (IceLab)
+organizations:
+  - name: Author👉Yanfang Liu (IceLab)
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,7 +52,7 @@ skills:
   - name: Yield Esitimation
     items:
       - name: Python
-        description: ''
+        description: 'lalalala'
         percent: 80
         icon: python
         icon_pack: fab

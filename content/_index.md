@@ -39,19 +39,12 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: '**Introduction** 📝'
+      title: '🔮 **Yield Analysis** 🔮'
       text: 'lalalala'
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     # /////////////
-  - block: skills
-    content:
-      title: '✨ **Paper Statistics on Yield Analysis** ✨'
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+
   # - block: experience
   #   content:
   #     title: Experience
@@ -132,7 +125,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: '✨ **Introduction** ✨'
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -156,6 +149,15 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: skills
+    id: pub
+    content:
+      title: '✨ **Paper Statistics on Yield Analysis** ✨'
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   # - block: portfolio
   #   id: projects
   #   content:
