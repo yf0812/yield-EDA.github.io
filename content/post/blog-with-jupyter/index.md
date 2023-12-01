@@ -8,30 +8,35 @@ authors:
 ---
 
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+## Problem Defination
 
-    
-![png](output_1_0.png)
+![image-20231201230842917](image-20231201230842917.png)
     
 
-```python
-print("Welcome to Academic!")
-```
 
-    Welcome to Academic!
 
-## Organize your notebooks
+## Importance Sampling (IS)-based Method
 
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+### Problem simplification
 
-## Import the notebooks into your site
+![image-20231201231219042](image-20231201231219042.png)
 
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/post/ --verbose
-```
+### Most critical: Proposal distribution
 
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+![image-20231201232827471](image-20231201232827471.png)
+
+### Advantages
+
+### Disadvantages
+
+### Classical Papers
+
+## Surrogate Model-based Method
+
+### Most critical:  Train a Surrogate Model as the SPICE Simulator
+
+### Advantages
+
+### Disadvantages
+
+### Classical Papers
