@@ -123,5 +123,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This blog primarily focuses on the issue of yield analysis in integrated circuits, encompassing both yield estimation and yield optimization. We begin with an introduction to the definitions of yield estimation and optimization, followed by a detailed exploration of the current mainstream research directions in these two areas. Ultimately, this site provides a comprehensive summary of the literature on yield estimation and optimization over the past two decades.
+
 {style="text-align: justify;"}
