@@ -8,34 +8,34 @@ authors:
 ---
 
 
-## Problem Defination
+### 1 Problem Defination
 
 ![image-20231202004242750](image-20231202004242750.png)    
 
 
 
-## Importance Sampling (IS)-based Method
+### 2 Importance Sampling (IS)-based Method
 
-### Problem simplification
-
-
-
-### Most critical: Proposal distribution
+#### 2.1 Problem simplification
 
 
 
-### Advantages
+#### 2.2 Most critical: Proposal distribution
 
-### Disadvantages
 
-### Classical Papers
 
-## Surrogate Model-based Method
+#### 2.3 Advantages
 
-### Most critical:  Bayesian Optimization
+#### 2.4 Disadvantages
 
-### Advantages
+#### 2.5 Classical Papers
 
-### Disadvantages
+### 3 Surrogate Model-based Method
 
-### Classical Papers
+#### 3.1 Most critical:  Bayesian Optimization
+
+#### 3.2 Advantages
+
+#### 3.3 Disadvantages
+
+#### 3.4 Classical Papers
