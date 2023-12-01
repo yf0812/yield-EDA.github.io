@@ -80,10 +80,10 @@ skills:
         percent: 70
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: combination
         description: ''
         percent: 10
-        icon: combination
+        icon: camera-retro
         icon_pack: fas
 
 # Social/Academic Networking
