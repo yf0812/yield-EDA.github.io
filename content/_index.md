@@ -40,14 +40,13 @@ sections:
     id: about
     content:
       title: '**Introduction** 📝'
+      text: 'lalalala'
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      columns: '1'
     # /////////////
   - block: skills
     content:
-      title: Skills
+      title: '✨ **Paper Statistics on Yield Analysis** ✨'
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -205,7 +204,7 @@ sections:
   #     view: card
   - block: collection
     content:
-      title: Yield Estimation
+      title: '✨ **Yield Estimation** ✨'
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
@@ -219,7 +218,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Yield Optimization
+      title: '✨ **Yield Optimization** ✨'
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).

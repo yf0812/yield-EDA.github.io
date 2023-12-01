@@ -49,7 +49,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Yield Esitimation
     items:
       - name: Python
         description: ''
@@ -66,7 +66,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Yield Optimization
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
