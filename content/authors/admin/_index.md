@@ -123,8 +123,10 @@ social:
 highlight_name: true
 ---
 
-* ⛳ This blog primarily focuses on the issue of yield analysis in integrated circuits, encompassing both yield estimation and yield optimization. 
-* 🎯 We begin with an introduction to the definitions of yield estimation and optimization, followed by a detailed exploration of the current mainstream research directions in these two areas. 
+* ⛳ This blog primarily focuses on the issue of `yield analysis` in integrated circuits, encompassing both yield estimation and yield optimization. 
+
+* 🎯 We begin with an introduction to the definitions of `yield estimation` and `yield optimization`, followed by a detailed exploration of the current mainstream research directions in these two areas. 
+
 * 🏆 Ultimately, this site provides a comprehensive summary of the literature on yield estimation and optimization over the past two decades.
 
 {style="text-align: justify;"}
