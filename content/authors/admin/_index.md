@@ -49,41 +49,41 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Yield Esitimation
+  - name: 🍀 Yield Esitimation
     items:
-      - name: Python
-        description: 'lalalala'
-        percent: 80
+      - name: IS-Based
+        description: ''
+        percent: 55
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: surrogate-based
         description: ''
-        percent: 100
+        percent: 35
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: combination
         description: ''
-        percent: 40
+        percent: 10
         icon: database
         icon_pack: fas
-  - name: Yield Optimization
+  - name: 🌵 Yield Optimization
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: IS-Based
         description: ''
-        percent: 60
+        percent: 20
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: surrogate-based
         description: ''
-        percent: 100
+        percent: 70
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 10
+        icon: combination
         icon_pack: fas
 
 # Social/Academic Networking
@@ -123,9 +123,9 @@ social:
 highlight_name: true
 ---
 
-* ⛳ This blog primarily focuses on the issue of `yield analysis` in integrated circuits, encompassing both yield estimation and yield optimization. 
+* ⛳ This blog primarily focuses on the issue of **`yield analysis`** in integrated circuits, encompassing both yield estimation and yield optimization. 
 
-* 🎯 We begin with an introduction to the definitions of `yield estimation` and `yield optimization`, followed by a detailed exploration of the current mainstream research directions in these two areas. 
+* 🎯 We begin with an introduction to the definitions of **`yield estimation`** and **`yield optimization`**, followed by a detailed exploration of the current mainstream research directions in these two areas. 
 
 * 🏆 Ultimately, this site provides a comprehensive summary of the literature on yield estimation and optimization over the past two decades.
 
