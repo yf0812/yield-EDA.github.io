@@ -43,6 +43,10 @@ sections:
       text: 'lalalala'
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: feng.jpg
     # /////////////
 
   # - block: experience
