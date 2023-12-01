@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 	✨IceLab-X✨
+title: 	'✨**IceLab-X**✨'
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI4EDA
+role: '**AI4EDA**'
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Our laboratory's research interests include AI4EDA(yield analysis, STA, ...) and application of bayesian statistical methods.
 
 # # Interests to show in About widget
 # interests:
@@ -122,7 +122,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-![JPG](jieshao.JPG)
+![JPG](feng1.JPG)
 * ⛳ This blog primarily focuses on the issue of **`yield analysis`** in integrated circuits, encompassing both yield estimation and yield optimization. 
 
 * 🎯 We begin with an introduction to the definitions of **`yield estimation`** and **`yield optimization`**, followed by a detailed exploration of the current mainstream research directions in these two areas. 

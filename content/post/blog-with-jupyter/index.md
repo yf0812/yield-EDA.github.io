@@ -1,7 +1,10 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: 🌷Yield Estimation💖
+date: '2023-12-01'
+summary: Simple introduction of yield estiomation!
+authors:
+  - admin
+  - Yanfang Liu
 ---
 
 
